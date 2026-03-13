@@ -1,4 +1,3 @@
-# 내 포부를 적는 곳인가..
 
 ### 프로젝트 방향성
 #### 1번 프로젝트 -> TCP(채팅) + UDP(그 외) + redis->mysql(데이터 적재) + proto buffer로 UDP패킷 + AWS배포 + 유저 정보 확인 웹(node.js)
